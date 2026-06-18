@@ -1,0 +1,6 @@
+{
+  "name": "RH Manager Pro",
+  "description": "Sistema de RH inteligente para gestão de escalas, ponto eletrônico, férias, banco de horas e adicionais com relatórios e interface futurista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
